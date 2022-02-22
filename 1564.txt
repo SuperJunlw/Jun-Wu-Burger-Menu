@@ -1,0 +1,8 @@
+receipt #1564
+
+You ordered order #4.
+You ordered 1 order #4.
+Your order cost $5.95 before tax.
+
+Your tax is $0.54.
+Your total bill is $6.49.
